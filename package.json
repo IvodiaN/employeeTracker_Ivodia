@@ -1,0 +1,24 @@
+{
+  "name": "employeetracker_ivodia",
+  "version": "1.0.0",
+  "description": "An application that tracks employees",
+  "main": "employeeTracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IvodiaN/employeeTracker_Ivodia.git"
+  },
+  "author": "Ivodia N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvodiaN/employeeTracker_Ivodia/issues"
+  },
+  "homepage": "https://github.com/IvodiaN/employeeTracker_Ivodia#readme",
+  "dependencies": {
+    "inquirer": "8.0.0",
+    "inquirer-confirm": "2.0.7",
+    "mysql": "2.18.1"
+  }
+}
